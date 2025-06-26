@@ -2,7 +2,6 @@
 
 A modern, secure, and user-friendly password generator application built with Python and Tkinter. This application helps users create strong, customizable passwords with an intuitive graphical interface.
 
-![Password Generator Screenshot](screenshot.png)
 
 ## ✨ Features
 
@@ -47,8 +46,8 @@ pip install pyperclip
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/password-generator.git
-cd password-generator
+git clone https://github.com/ROSHNIFATIMA/OIBSIP_RANDOMPASSWORDGENERATOR.git
+cd OIBSIP_RANDOMPASSWORDGENERATOR
 ```
 
 2. Install the required dependencies:
