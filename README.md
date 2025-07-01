@@ -2,6 +2,9 @@
 
 A modern, secure, and user-friendly password generator application built with Python and Tkinter. This application helps users create strong, customizable passwords with an intuitive graphical interface.
 
+## 📸 Screenshot
+
+![App Screenshot](passwordgenerator.png)
 
 ## ✨ Features
 
